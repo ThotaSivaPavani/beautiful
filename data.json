@@ -1,0 +1,7 @@
+{
+    "basics":{
+        "name":"pavani","role":"student","email":"thotapavani2000@gmail.com","mobile":"9493965001","education":[{
+            "degree":"ssc","cgpa":98},{"degree":"inter","cgpa":97},{"degree":"btech"},{"cgpa":90}]
+        
+    }
+}

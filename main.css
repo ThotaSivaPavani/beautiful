@@ -1,0 +1,34 @@
+
+.main{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+}
+.main-section{
+    width:116%;
+    border: yellow;
+    justify-content: space-between;
+    
+}
+.artical-left{
+    width:90%;
+    background-color:rgb(36, 241, 9);
+  text-align: center;
+}
+img{
+    width:70%;
+    border-radius:30%;
+}
+@media only screen and  (min-device-width:462px) and (max-device-width:780px){
+    #article-left,#article-right{
+    width:100%;
+   background-color: tomato;
+  text-align: center;  
+}
+}
+.artical-right{
+    width:90%;
+    background-color:rgb(245, 130, 226);
+    
+}
+
